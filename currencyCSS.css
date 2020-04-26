@@ -1,0 +1,58 @@
+#exchange-container{
+    width: 300px;
+    text-align: center;
+    padding: 19px;
+    margin: 14% auto 0px;
+    background: #ada4a4;
+    border: 1px solid black;
+    display: block;
+    box-shadow: 4px -4px 6px 0px #3b4c4b;
+
+}   
+
+#exchange-container h1{
+    font-size: 24px;
+    text-align: center;
+    text-decoration: underline;
+}
+#exchange-container{
+    display: block;
+    box-shadow: 4px -4px 6px 0px #3b4c4b;
+}
+.currency-one{
+    padding: 5px;
+    width: 216px;
+    height: 40px;
+    border-radius: 8px;
+    background-color: #dadada;
+    /* margin-left: 10%; */
+    margin-bottom: 10px;
+    margin-top: 5%;
+}
+.currency-two{
+    padding: 5px;
+    width: 216px;
+    height: 40px;
+    border-radius: 8px;
+    background-color: #dadada;
+    /* margin-left: 10%; */
+}
+
+.btn-dark {
+    color: #000;
+    margin-top: 8px;
+    background-color: #dadada;
+    border-color: #ada4a4;
+}
+.result{
+    /* by default hide */
+    display: none;
+    width: 300px;
+    text-align: center;
+    padding: 19px;
+    margin: 20px auto 0px;
+    background: #ada4a4;
+    border: 1px solid black;
+    box-shadow: 4px -4px 6px 0px #3b4c4b;
+
+}
